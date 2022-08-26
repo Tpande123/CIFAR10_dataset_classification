@@ -7,7 +7,7 @@ A CNN, consisting of 4 convolutional layers along with max pooling layers whose 
 
 1.) Jupyter Notebook or google collab.
 
-2.) The CIFAR10 dataset is being used here.
+2.) The CIFAR10 dataset is being imported here using the torchvision package.
 
 
 ## How to run the code: - 
